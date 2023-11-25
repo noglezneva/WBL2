@@ -1,0 +1,4 @@
+apple 10 red
+orange 5 orange
+banana 8 yellow
+grape 15 purple
